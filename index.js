@@ -1,4 +1,4 @@
-require("dotenv").config();
+require(".env").config();
 
 const personRoutes = require("./routes/rotas.js");
 
